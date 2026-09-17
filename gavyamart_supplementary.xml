@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Supplemental Feed - Custom Labels</title>
+    <link>https://gavyamart.com</link>
+    <description>Supplemental data source providing custom_label_0 through custom_label_4, matched by id to the primary product source.</description>
+
+    <item>
+      <g:id>shopify_US_8332442796194_44512909525154</g:id>
+      <g:custom_label_0>test</g:custom_label_0>
+      <g:custom_label_1>NP</g:custom_label_1>
+      <g:custom_label_2>LEAST_PRICE_VARIANT</g:custom_label_2>
+      <g:custom_label_3>Seasonal</g:custom_label_3>
+      <g:custom_label_4>Low ROAS</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>shopify_ZZ_8322629042338_44553905406114</g:id>
+      <g:custom_label_0>test</g:custom_label_0>
+      <g:custom_label_1>1000+</g:custom_label_1>
+      <g:custom_label_2>BESTSELLER</g:custom_label_2>
+      <g:custom_label_3>Evergreen</g:custom_label_3>
+      <g:custom_label_4>High ROAS</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>shopify_ZZ_8332442927266_44512909688994</g:id>
+      <g:custom_label_0>test_1</g:custom_label_0>
+      <g:custom_label_1>500+</g:custom_label_1>
+      <g:custom_label_2>CLEARANCE</g:custom_label_2>
+      <g:custom_label_3>Holiday Sale</g:custom_label_3>
+      <g:custom_label_4>Medium ROAS</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>shopify_US_9000000000001_10000000000001</g:id>
+      <g:custom_label_0>promo</g:custom_label_0>
+      <g:custom_label_1>NP</g:custom_label_1>
+      <g:custom_label_2>NEW_ARRIVAL</g:custom_label_2>
+      <g:custom_label_3>Price 0-10</g:custom_label_3>
+      <g:custom_label_4>Test Campaign</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>shopify_US_9000000000002_10000000000002</g:id>
+      <g:custom_label_0>bundle</g:custom_label_0>
+      <g:custom_label_1>2000+</g:custom_label_1>
+      <g:custom_label_2>PREORDER</g:custom_label_2>
+      <g:custom_label_3>Price 20+</g:custom_label_3>
+      <g:custom_label_4>High ROAS</g:custom_label_4>
+    </item>
+  </channel>
+</rss>
