@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
+ <entry>
+  <g:id><![CDATA[shopify_US_8882721980656_46187571052784]]></g:id>
+  <g:custom_label_0><![CDATA[test]]></g:custom_label_0>
+  <g:custom_label_1><![CDATA[NP]]></g:custom_label_1>
+  <g:custom_label_2><![CDATA[ani]]></g:custom_label_2>
+  <g:custom_label_3><![CDATA[Seasonal]]></g:custom_label_3>
+  <g:custom_label_4><![CDATA[Low ROAS]]></g:custom_label_4>
+ </entry>
+ <entry>
+  <g:id><![CDATA[shopify_US_8882719949040_46187562795248]]></g:id>
+  <g:custom_label_0><![CDATA[test]]></g:custom_label_0>
+  <g:custom_label_1><![CDATA[NP]]></g:custom_label_1>
+  <g:custom_label_2><![CDATA[ani]]></g:custom_label_2>
+  <g:custom_label_3><![CDATA[Evergreen]]></g:custom_label_3>
+  <g:custom_label_4><![CDATA[High ROAS]]></g:custom_label_4>
+ </entry>
+</feed>
